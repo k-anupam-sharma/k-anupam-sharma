@@ -1,7 +1,5 @@
 <img src="dark_mode.svg" width="100%" alt="k-anupam-sharma's GitHub profile" />
 
-## Hi there 👋
-
 <!--
 **k-anupam-sharma/k-anupam-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
