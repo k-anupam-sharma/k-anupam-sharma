@@ -6,6 +6,11 @@ I build products that combine AI, computer vision and mobile/AR to solve real-wo
 
 I enjoy turning research-grade models into reliable, deployable systems — shipping end-to-end solutions with social impact. 
 
-Experienced in JavaScript/TypeScript, Kotlin, and Python; computer vision & ML (YOLOv8‑Nano, OpenCV DNN SSD, MTCNN, MobileFaceNet (ONNX), FaceNet/InceptionResnetV1, Tesseract OCR); deployment & tooling (ONNX, Blender, AR, Android, Raspberry Pi 4); and systems (OpenStreetMap, knowledge graphs, multi‑agent AI, digital‑twin biometrics, Entire Graph, MCP server, Hindsight).
+Experienced in:
+• Languages: JavaScript/TypeScript, Kotlin, Python, C, Cpp, Java, HTML
+• Computer vision & ML: YOLOv8‑Nano, OpenCV DNN SSD, MTCNN, MobileFaceNet (ONNX), FaceNet/InceptionResnetV1, Tesseract OCR
+• Deployment & tooling: ONNX, Blender, AR, Android, Raspberry Pi 4
+• Systems & platforms: OpenStreetMap, knowledge graphs, Entire Graph, MCP, Hindsight
+• Research & architectures: multi‑agent AI, digital‑twin biometrics, AI Flight Recorder, AI Blackbox, AI Courtroom for AI Flight Recorder
 
 Feel free to explore my repos or reach out — I'm always open to collaboration and interesting problems to solve.
