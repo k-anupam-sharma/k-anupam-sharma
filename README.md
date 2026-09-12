@@ -1,6 +1,6 @@
 <img src="dark_mode.svg" width="100%" alt="k-anupam-sharma's GitHub profile" />
 
-# Hi — I'm Anupam 👋
+# Hi — I'm Anupam 👋🏼
 
 I build products that combine AI, computer vision and mobile/AR to solve real-world problems. My projects range from assistive tech for the visually impaired and AR medical guidance, to Android apps and web platforms for campus networking, SME growth, inventory management and developer tooling.
 
